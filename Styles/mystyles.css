@@ -1,0 +1,33 @@
+img {width: 800px;}
+
+#raptorbanner {
+    width: 400px;
+    vertical-align: middle;
+}
+
+.header {
+    vertical-align: middle;
+    font-size: 4em;
+    font-family: 'Caesar Dressing', serif;
+
+}
+
+body {
+    background-color: burlywood;
+    color: green;
+    font-family: 'Caesar Dressing', cursive;
+    font-size: 1.5em;
+}
+
+#top {
+    color: black;
+    font-size: 2em;
+}
+
+#graph {
+    color: black;
+}
+
+#navigation {
+    color: black;
+}
